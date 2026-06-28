@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 
-* **Web:** HTML, CSS, JavaScript
+* **Web:** HTML, CSS, JavaScript (Fokus mehr auf Python)
 * **Python** (Favorit)
 * **Scratch**
 * **Lego Boost**
