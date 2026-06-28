@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, ich bin Omar!
 
-<!--
-**OmarAlyInformatik/OmarAlyInformatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Schüler 2. Oberstufe** (Bald 3. Oberstufe) | Ich lerne Programmieren und arbeite an eigenen Projekten.  
+**Mein Ziel:** Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu machen!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* **Web:** HTML, CSS, JavaScript
+* **Python** (Favorit)
+* **Scratch**
+* **Lego Boost**
+* **Micro:Bit**
+* **Lego Mindstorms**
+* **Tools:** Git & GitHub
+
+---
+
+## 📁 Projekte
+
+* **Python:** Lern-Projekte
+* **Python:** Car Game
+* **Python:** Guessing Game (Nicht random Zahlen, wird aber gemacht)
+* **Python:** Weight Converter
+
+---
+
+## 🎯 Über mich
+
+Ich bin motiviert, zuverlässig und lerne schnell.  
+Ich arbeite gerne an eigenen Projekten und probiere neue Technologien aus.  
+
+---
+
+## 📬 Kontakt
+
+* **E-Mail:** [omar.aly4601@gmail.com](mailto:omar.aly4601@gmail.com)
