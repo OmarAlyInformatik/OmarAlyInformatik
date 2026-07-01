@@ -21,7 +21,6 @@
 
 * **Python:** Lern-Projekte
 * **Python:** Car Game
-* **Python:** Guessing Game (Nicht random Zahlen, wird aber gemacht)
 * **Python:** Weight Converter
 
 ---
