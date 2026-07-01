@@ -1,11 +1,11 @@
-# 👋 Hi, ich bin Omar!
+ # 👋 Hi, ich bin Omar!
 
 🎓 **Schüler 2. Oberstufe** (Bald 3. Oberstufe) | Ich lerne Programmieren und arbeite an eigenen Projekten.  
 **Mein Ziel:** Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu machen!
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 * **Web:** HTML, CSS, JavaScript (Fokus mehr auf Python)
 * **Python** (Favorit)
@@ -17,7 +17,7 @@
 
 ---
 
-## 📁 Projekte
+### 📁 Projekte
 
 * **Python:** Lern-Projekte
 * **Python:** Car Game
@@ -26,13 +26,13 @@
 
 ---
 
-## 🎯 Über mich
+### 🎯 Über mich
 
 Ich bin motiviert, zuverlässig und lerne schnell.  
 Ich arbeite gerne an eigenen Projekten und probiere neue Technologien aus.  
 
 ---
 
-## 📬 Kontakt
+### 📬 Kontakt
 
 * **E-Mail:** [omar.aly4601@gmail.com](mailto:omar.aly4601@gmail.com)
