@@ -1,37 +1,41 @@
- # 👋 Hi, ich bin Omar!
+ # 👋 Hallo, ich bin Omar!
 
-🎓 **Schüler 2. Oberstufe** (Bald 3. Oberstufe) | Ich lerne Programmieren und arbeite an eigenen Projekten.  
-**Mein Ziel:** Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu machen!
+### 🎓 **Schüler der 3. Oberstufe**
+
 
 ---
 
 ### 🛠️ Skills
 
-* **Web:** HTML, CSS, JavaScript (Fokus mehr auf Python)
+* **Web:** HTML, CSS, JavaScript
 * **Python** (Favorit)
 * **Scratch**
 * **Lego Boost**
 * **Micro:Bit**
 * **Lego Mindstorms**
-* **Tools:** Git & GitHub
+* **Tool's:** GitHub
 
 ---
 
 ### 📁 Projekte
 
 * **Python:** Lern-Projekte
-* **Python:** Car Game
-* **Python:** Weight Converter
+* **Editor:** VSCode
+* **Lernen:** Aufgaben von SoloLearn (Lernmaterial) in Challenges von Gemini umwandeln und in VSCode lösen!
 
 ---
 
-### 🎯 Über mich
+### Über mich
 
-Ich bin motiviert, zuverlässig und lerne schnell.  
-Ich arbeite gerne an eigenen Projekten und probiere neue Technologien aus.  
+* 🎯 **Fokus:** Ich habe vorher HTML, CSS und ein bisschen JavaScript gelernt, weil ich es cool finde, eigene Webseiten zu erstellen. Da KI heutzutage aber viele Webseiten generieren kann, habe ich in Python meine wahre Leidenschaft gefunden.
+* 🌲 **Perfektionist:** Mein VSCode muss perfekt eingerichtet sein. 
+* 🧠 **Lerner:** Ich teile hier meine Fortschritte, während ich mich Schritt für Schritt durch Python durchbeiße.
 
 ---
 
-### 📬 Kontakt
-
-* **E-Mail:** [omar.aly4601@gmail.com](mailto:omar.aly4601@gmail.com)
+### 📈 Meine Ziele
+* [ ] Ich will Python meistern
+* [ ] Eigene Tool's für die Schule erschaffen
+* [ ] Meine eigene einfache KI zu erstellen
+* [ ] Zukünftige Projekte direkt hier auf GitHub hochladen
+* [ ] Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu machen!
