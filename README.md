@@ -35,7 +35,14 @@
 
 ### 📈 Meine Ziele
 * [ ] Ich will Python meistern
-* [ ] Eigene Tool's für die Schule erschaffen
+* [ ] Mit Git umzugehen!
 * [ ] Meine eigene einfache KI zu erstellen
 * [ ] Zukünftige Projekte direkt hier auf GitHub hochladen
 * [ ] Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu machen!
+
+---
+
+### ⌛ Aktuell / Jetzige Arbeit
+* **Ausprobieren des Source Control:** Ich habe als erstes ein vorheriges Python-Projekt mit Git gepublisht. Nachher habe ich eine Webseite für mein persönliches Lernen auf der gleichen Weise gepublisht um sie nacher mit Netlify zu verbinden und so gelernt habe wie man **Updates** macht, was ich schon immer mal wissen wollte.
+* **Die Kommunikation mit der KI:** Ich habe meine Prompt Fähigkeiten bei mehrere KIs verbessert um so mit nur 2-3 Nachrichten zu einem Ergebnis zu kommen wie ich mir es vorgestellt habe. Vielleicht klingt das als wäre es ein komischer Fortschritt, aber da heute die KI extrem verbreitet ist finde ich es lohnt sich um sowas zu lernen.
+* **Weiterarbeit bei Python:** Es sieht so aus als hätte ich einen Stopp gemacht habe, womit ich auch zustimme aber für eine kurze Zeit. Ich stehe gerade vor einer Aufnahmeprüfung auch welcher ich mich sehr konzentrieren muss! Danke für euer Verständnis.
