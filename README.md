@@ -7,13 +7,12 @@
 
 ### 🛠️ Skills
 
-* **Web:** HTML, CSS, JavaScript
-* **Python** (Favorit)
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **Python**
 * **Scratch**
-* **Lego Boost**
-* **Micro:Bit**
-* **Lego Mindstorms**
-* **Tool's:** GitHub
+* **Tool's:** Git & GitHub
 
 ---
 
