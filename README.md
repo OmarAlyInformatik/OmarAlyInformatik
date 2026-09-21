@@ -9,9 +9,7 @@
 
 * **HTML**
 * **CSS**
-* **JavaScript**
 * **Python**
-* **Scratch**
 * **Tools:** Git & GitHub
 
 ---
