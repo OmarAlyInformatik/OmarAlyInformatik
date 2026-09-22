@@ -17,7 +17,7 @@
 ### 📁 Projekte
 
 * **Arbeitsfokus:** ... hilft Personen einen strukturierten und organisierten Lernprozess zu finden und aufzubauen.
-* **Portfolio:** ... zeigt mein Wissen und gibt einen kurzen schnellen Eindruck über mich!
+* **Portfolio:** ... gibt einen kurzen schnellen Eindruck über mich!
 
 ---
 
